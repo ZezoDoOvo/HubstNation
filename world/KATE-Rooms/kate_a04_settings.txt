@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.571517
+WaveLength: 0.9642415
+WaveAmplitude: 8.567739E-09
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+BkgDroneVolume: 0
+Palette: 12
+TerrainWaves: 0.173913
+TerrainEdgeRadius: 64.34777
+TerrainGrain: 0.2934783
+TerrainDepth: 0.5434713
+TerrainSkyFade: 1
+TerrainPalette: test_snow
+Effects: Desaturation-0.7717391-20-20, Darkness-0.6956522-30-30, 
+PlacedObjects: TerrainHandle><507.1439><32.39191><-102~8~40~0~33, TerrainHandle><1088.129><57.9083><-102~2~266~-11~20, TerrainHandle><1810.449><170.2773><-38~-32~146~78~20, TerrainHandle><2182.606><482.4429><-45~-60~48~72~20, SnowSource><34.84955><296.3682><Radial~-80~252~50~86.60254~0.5869565~0, SnowSource><207.8365><174.3651><Radial~0~100~50~86.60254~0.4021739~0, SnowSource><375.8732><84.34247><Radial~0~100~50~86.60254~0.6195652~0, SnowSource><527.6473><43.13522><Radial~0~100~50~86.60254~1~0, SnowSource><289.08><42.31671><Radial~0~100~50~86.60254~1~0, SnowSource><809.9221><119.9342><Radial~101~321~50~86.60254~1~0, 
+AmbientSounds: OMNI><MSC-Subtundra.ogg><731.6821><186.0619><0.7282609><1, OMNI><MSC-LowGroans.ogg><720.5123><279.8004><0.5><1, OMNI><AM_WIN_Hilltop.ogg><734.5835><460.6392><1><1, 

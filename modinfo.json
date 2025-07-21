@@ -1,0 +1,12 @@
+{
+    "id": "otherworld",
+    "name": "Other World",
+    "version": "1.0.0",
+    "hide_version": false,
+    "authors": "Invisin",
+    "description": "aiai, por enquanto é só isso mesmo, faz o L, tio",
+    "requirements": ["regionkit", "slime-cubed.slugbase", "watcher", "moreslugcats"],
+    "requirements_names": ["RegionKit", "SlugBase", "The Watcher", "More Slugcats Expansion"],
+    "checksum_override_version": false,
+    "tags": ["Regions"]
+}

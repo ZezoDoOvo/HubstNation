@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.360998
+WaveLength: 0.930499
+WaveAmplitude: 3.54732E-10
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 12
+Effects: Desaturation-0.6847826-20-20, Darkness-0.7717391-30-30, 
+PlacedObjects: ClimbableWire><1028><1964><103~-18~17.32051~-10~Black~2, SnowSource><-71.01898><2248.051><Radial~190~224~50~86.60254~0.7282609~0, SnowSource><217.494><2198.8><Radial~-24~173~50~86.60254~0.5760869~0, SnowSource><733.8813><2007.349><Radial~0~100~50~86.60254~0.2934783~0, SnowSource><527.3222><2029.908><Radial~41~156~50~86.60254~0.5869565~0, SnowSource><533.097><2248.175><Radial~0~100~50~86.60254~0.5760869~0, SnowSource><778.733><2170.449><Strip~0~100~50~86.60254~0.5869565~0, SnowSource><924.6852><2045.175><Radial~128~236~50~86.60254~0.3695652~0, SnowSource><1191.491><2026.3><Radial~0~100~50~86.60254~0.8478261~0, SnowSource><1470.307><2129.053><Radial~10~254~50~86.60254~1~0, SnowSource><2610.629><764.8945><Radial~74~290~50~86.60254~1~0, SnowSource><2155.949><553.9822><Radial~20~219~50~86.60254~1~0, SnowSource><1788.029><632.6979><Radial~153~136~50~86.60254~0.7282609~0, SnowSource><1848.56><411.4497><Radial~33~207~50~86.60254~1~0, SnowSource><1535.062><853.8183><Radial~122~187~50~86.60254~1~0, SnowSource><1438.847><529.8712><Radial~101~189~50~86.60254~0.7282609~0, SnowSource><2134.309><280.1898><Radial~69~157~50~86.60254~0.6195652~0, SnowSource><2445.7><369.7374><Radial~90~213~50~86.60254~1~0, SnowSource><2995.051><691.486><Radial~41~141~50~86.60254~1~0, 
+AmbientSounds: OMNI><MSC-LowGroans.ogg><700.8227><283.8426><0.5><1, OMNI><locustCloudFar.ogg><721.3301><395.6833><0.3913043><1, OMNI><MSC-ShadowGully.ogg><728.9321><219.3327><0.2173913><1, OMNI><AM_WIN_Hilltop.ogg><728.6536><462.0748><1><1, OMNI><MSC-Subtundra.ogg><735.6108><186.0835><0.7282609><1, 

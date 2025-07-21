@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.6621
+WaveLength: 0.91895
+WaveAmplitude: 0.0001585429
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 12
+Effects: Desaturation-0.6956522-20-20, Darkness-0.7608696-30-30, 
+PlacedObjects: Corruption><1580.629><353.9305><0~100, CorruptionTube><1539.775><384.4317><-129~83, LanternOnStick><990.0607><323.9018><30~-148, SnowSource><3660.311><353.2513><Radial~526~359~50~86.60254~0.7717391~0.4347826, SnowSource><3339.821><100.2498><Radial~-6~194~50~86.60254~0.6630435~0, SnowSource><2945.532><331.3842><Radial~8~112~50~86.60254~1~0.4130435, SnowSource><3041.054><319.7258><Radial~0~100~50~86.60254~1~0.2173913, SnowSource><3157.188><231.754><Radial~0~100~50~86.60254~1~0, SnowSource><2655.736><265.6306><Radial~-336~-163~50~86.60254~0.5~0, FloatingDebris><3370.748><185.55><50~50~1333647726~30~30~3~3~100~12|62|161|211|261|311~311|311|320|320|320|320~0.25|0.94|1.41|0.88|0.76|1.01~0|0.02|0|0|0|0~0|0|0|0|0|0~Aurora~0~0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0~0, LanternOnStick><912.8049><288.5403><57~-126, LanternOnStick><1462.761><296.3145><-53~70, LanternOnStick><1347.942><448.6185><61~-60, LanternOnStick><1457.107><459.0925><-44~-52, 
+AmbientSounds: OMNI><MSC-LowGroans.ogg><730.9482><282.4432><0.3913043><1, OMNI><locustCloudFar.ogg><674.7262><398.3014><0.25><1, OMNI><AM_WIN_Hilltop.ogg><727.5821><498.4324><1><1, OMNI><MSC-Subtundra.ogg><763.4277><194.4081><0.8695652><1, 

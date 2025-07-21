@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.5366253
+WaveLength: 0.9816874
+WaveAmplitude: 2.468695E-08
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+BkgDroneVolume: 0
+Palette: 12
+Effects: Desaturation-0.3152174-20-20, Darkness-0.7826087-30-30, Bloom-0.1521739-40-40, Hue-0.07608695-50-50, 
+PlacedObjects: ClimbableArc><139.655><156.3766><0;0^21;36^-18;163^-69;102, ClimbableArc><223.5528><140.7832><0;0^-18;52^32;130^88;127, ClimbableArc><827.058><150.9441><0;0^27;90^-23;150^-51;113, 
