@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.4191272
+WaveLength: 0.9595636
+WaveAmplitude: 7.272051E-08
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 12
+EffectColorA: 9
+EffectColorB: 8
+Effects: Bloom-0.6847826-20-20, Darkness-0.7391304-33-93, Contrast-0.01086957-25-66, 
+PlacedObjects: SnowSource><1273.801><47.0197><Radial~-2~119~50~86.60254~1~0, SnowSource><1399.117><123.088><Radial~0~100~50~86.60254~1~0, SnowSource><1065.354><245.8873><Radial~0~100~50~86.60254~0.4347826~0, SnowSource><1572.923><118.3502><Radial~0~100~50~86.60254~1~0, SnowSource><1649.437><144.8198><Radial~0~100~50~86.60254~0.4130435~0, SnowSource><1085.449><93.26962><Radial~0~100~50~86.60254~1~0, SnowSource><916.8763><103.9072><Radial~0~100~50~86.60254~1~0, SnowSource><633.6835><2094.83><Radial~52~135~50~86.60254~1~0, SnowSource><821.967><1882.803><Radial~7~128~50~86.60254~1~0, SnowSource><991.3141><1631.057><Radial~0~100~50~86.60254~0.2065217~0, SnowSource><1724.232><749.4492><Radial~154~181~50~86.60254~0.5869565~0, SnowSource><1936.342><725.6775><Radial~0~100~50~86.60254~1~0, SnowSource><2123.949><703.4766><Radial~0~100~50~86.60254~1~0, SnowSource><2264.642><707.8911><Radial~0~100~50~86.60254~1~0, SnowSource><2220.117><503.1624><Radial~0~100~50~86.60254~0.3152174~0, SnowSource><1504.408><471.873><Radial~0~100~50~86.60254~1~0, SnowSource><2531.496><99.69995><Radial~-19~203~50~86.60254~1~0, SnowSource><2888.807><128.6974><Radial~157~60~50~86.60254~0.3804348~0, ClimbableArc><771.55><1699.997><0;0^15;-79^68;-196^144;-202, ClimbableArc><662.0607><1308.691><0;0^-56;77^67;141^67;101, ClimbableArc><637.8554><1189.362><0;0^-63;77^24;121^81;51, LightSource><952.8555><1623.879><1~White~-6~112~50~86.60254~1~0~None~0~0, ClimbableArc><794.569><1048.915><0;0^70;-21^38;-133^34;-66, ClimbableRope><832.0569><916.2576><2^-277, 
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><708.573><412.5638><0.5><1.48913, OMNI><AM_ENV-WinterTrees.ogg><744.3395><385.8693><0.5434783><1, OMNI><AM_ENV-NatWind.ogg><759.3768><493.9075><0.2717391><1, OMNI><AM_WIN_Hilltop.ogg><726.394><464.6696><0.7608696><1, 
+FadePalette: 2, 0, 0.0326087, 0.09782609, 0.1195652, 0.1086956, 0.1195652, 0.1195652
